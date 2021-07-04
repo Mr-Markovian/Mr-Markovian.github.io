@@ -1,0 +1,102 @@
+title = "Shashank Kumar Roy"
+baseURL = "https://example.com"
+languageCode = "en-us"
+theme = "ananke"
+#themesDir = "../.."
+resourceDir = "../resources"
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[languages]
+  [languages.en]
+    title = "Shashank Roy"
+    weight = 1
+    contentDir = "content/en"
+#  [languages.fr]
+#    title = "Mon blogue"
+#    weight = 2
+#    contentDir = "content/fr"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[frontmatter]
+
+  date = ["date", "publishDate", "lastmod"]
+  expiryDate = ["expiryDate"]
+  lastmod = [":git", "lastmod", "date", "publishDate"]
+  publishDate = ["publishDate", "date"]
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[params]
+  toc=true
+  katex=true
+  body_classes = "arial bg-near-white"
+  post_content_classes="arial bg-near-white"
+  show_reading_time=true
+  favicon = ""
+  site_logo = ""
+  description = "The last theme you'll ever need. Maybe."
+  facebook = ""
+  twitter = "https://twitter.com/GoHugoIO"
+  instagram = "https://www.instagram.com/shashankkroy/"
+  youtube = ""
+  github = "https://github.com/Mr-Markovian/"
+  gitlab = ""
+  linkedin = "https://www.linkedin.com/in/shashankroy/"
+  mastodon = ""
+  slack = ""
+  stackoverflow = ""
+  rss = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-navy"
+  featured_image = "/images/tree_2.jpg"
+  recent_posts_number = 3
+  SidebarRecentLimit = 5
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+    [markup.goldmark.parser]
+      autoHeadingID = true
+      autoHeadingIDType = "github"
+      [markup.goldmark.parser.attribute]
+        block = false
+        title = true
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = false
+      xhtml = false
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineAnchors = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = "monokai"
+    tabWidth = 4
+  [markup.tableOfContents]
+    endLevel = 2
+    ordered = true
+    startLevel = 2
