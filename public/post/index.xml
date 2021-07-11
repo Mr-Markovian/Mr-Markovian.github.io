@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on Shashank Roy</title>
+    <link>https://mr-markovian.github.io/post/</link>
+    <description>Recent content in Articles on Shashank Roy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://mr-markovian.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Machine Learning for Weather and Climate Science</title>
+      <link>https://mr-markovian.github.io/post/chapter-10/</link>
+      <pubDate>Sun, 13 Jun 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://mr-markovian.github.io/post/chapter-10/</guid>
+      <description>It&amp;rsquo;s a remarkable time for us for application of AI to solve the hardest of real world problems. Climate and weather prediction is one such task which impacts billions of people all over the world.
+Of possible areas, some are as follows:
+ Downscale data Accelerate Simulations Improve forecasts Emulate complex processes   Pattern recognition for extreme weather phenomenon. Tracking extreme events is critical for our climate if one is to prepare and avoid their devastations.</description>
+    </item>
+    
+    <item>
+      <title>Chapter VI: Quantum Alorithms for Optimization</title>
+      <link>https://mr-markovian.github.io/post/chapter-11/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://mr-markovian.github.io/post/chapter-11/</guid>
+      <description>$$\mathcal{H}=\sum_{j,j}s_i s_j$$ Solving optimzation probelms, which deal in finding the best possible solution to a problem under certain constrained. Often at the heart of critical decision making processes in industrial and business problems which are both complex and high-dimensional in nature. Under some conditions, they sometimes become notoriously hard and often ones resorts to best achievable solutions instead of the best solution. To take a refresher of the classical optimization problems as we know it, click here.</description>
+    </item>
+    
+    <item>
+      <title>Chapter VI: Statistical Inference and Statistical Mechanics: How far apart?</title>
+      <link>https://mr-markovian.github.io/post/chapter-6/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://mr-markovian.github.io/post/chapter-6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chapter VI: Tensor networks for Machine Learning</title>
+      <link>https://mr-markovian.github.io/post/chapter-12/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://mr-markovian.github.io/post/chapter-12/</guid>
+      <description>Tensor Networks Graphical models are powerful methods which simplifies the statistical dependence of a set of random variables.
+ Bayesian networks Markov Random Fields factor graph model  A factor graphical model descibes a fucntion of the random variables in temrs of the products of fuction of this random variables. when all the factors are non ngative fucntion, the global fucntion can be used to represent a multivariate probability distribution. they capture and can model a lot of problems in fiels of economics, machine learning, statistical modeling and so on.</description>
+    </item>
+    
+    <item>
+      <title>Chapter V: Data Assimilation: A Hidden markov model problem</title>
+      <link>https://mr-markovian.github.io/post/chapter-5/</link>
+      <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
+      
+      <guid>https://mr-markovian.github.io/post/chapter-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chapter VII:Is Finance useful for a Physicist?</title>
+      <link>https://mr-markovian.github.io/post/chapter-8/</link>
+      <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
+      
+      <guid>https://mr-markovian.github.io/post/chapter-8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chapter VII:Quantum Machine Learning</title>
+      <link>https://mr-markovian.github.io/post/chapter-7/</link>
+      <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
+      
+      <guid>https://mr-markovian.github.io/post/chapter-7/</guid>
+      <description>In the twinkling of an eye, all was ready to execute Coppenole’s idea. Bourgeois, scholars and law clerks all set to work. The little chapel situated opposite the marble table was selected for the scene of the grinning match. A pane broken in the pretty rose window above the door, left free a circle of stone through which it was agreed that the competitors should thrust their heads. In order to reach it, it was only necessary to mount upon a couple of hogsheads, which had been produced from I know not where, and perched one upon the other, after a fashion.</description>
+    </item>
+    
+    <item>
+      <title>Chapter IV: Time series in business science</title>
+      <link>https://mr-markovian.github.io/post/chapter-4/</link>
+      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
+      
+      <guid>https://mr-markovian.github.io/post/chapter-4/</guid>
+      <description>While the pensioner of Ghent and his eminence were exchanging very low bows and a few words in voices still lower, a man of lofty stature, with a large face and broad shoulders, presented himself, in order to enter abreast with Guillaume Rym; one would have pronounced him a bull-dog by the side of a fox. His felt doublet and leather jerkin made a spot on the velvet and silk which surrounded him.</description>
+    </item>
+    
+    <item>
+      <title>Chapter III: Dimensionality reduction and reasons to do it</title>
+      <link>https://mr-markovian.github.io/post/chapter-3/</link>
+      <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
+      
+      <guid>https://mr-markovian.github.io/post/chapter-3/</guid>
+      <description>Poor Gringoire! the din of all the great double petards of the Saint-Jean, the discharge of twenty arquebuses on supports, the detonation of that famous serpentine of the Tower of Billy, which, during the siege of Paris, on Sunday, the twenty-sixth of September, 1465, killed seven Burgundians at one blow, the explosion of all the powder stored at the gate of the Temple, would have rent his ears less rudely at that solemn and dramatic moment, than these few words, which fell from the lips of the usher, “His eminence, Monseigneur the Cardinal de Bourbon.</description>
+    </item>
+    
+    <item>
+      <title>Chapter II: Ensemble forecats for NWP: Why a best estimate is not a good idea</title>
+      <link>https://mr-markovian.github.io/post/chapter-9/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://mr-markovian.github.io/post/chapter-9/</guid>
+      <description>Learn how to enbed a youtube link. Write a post. Singular Vector. Upscaleing of errors. AI and stochastically rounded low precision, enromous potential to imporve data assimilation schemes. AI to make better parametrizations. Signal to noise paradox paper(UK met office). There are some cases where the atmosphere is more predictable than the ensemble. The nonlinearity can confine the ensemble into narrow regions of phase space, which reduces the uncertainity. Mention of forecast based finance aid.</description>
+    </item>
+    
+    <item>
+      <title>Chapter II: Is QML powerful over Classical Machine Learning methods?</title>
+      <link>https://mr-markovian.github.io/post/chapter-13/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://mr-markovian.github.io/post/chapter-13/</guid>
+      <description>References  The Inductive bias of Quantum Kernels  </description>
+    </item>
+    
+    <item>
+      <title>Chapter II: Monte Carlo Methods: The Wisdom of the Crowd</title>
+      <link>https://mr-markovian.github.io/post/chapter-2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://mr-markovian.github.io/post/chapter-2/</guid>
+      <description>Nevertheless, as be harangued them, the satisfaction and admiration unanimously excited by his costume were dissipated by his words; and when he reached that untoward conclusion: “As soon as his illustrious eminence, the cardinal, arrives, we will begin,” his voice was drowned in a thunder of hooting.
+“Begin instantly! The mystery! the mystery immediately!” shrieked the people. And above all the voices, that of Johannes de Molendino was audible, piercing the uproar like the fife’s derisive serenade: “Commence instantly!</description>
+    </item>
+    
+    <item>
+      <title>Chapter I: Optimization: The Nature&#39;s way</title>
+      <link>https://mr-markovian.github.io/post/chapter-1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://mr-markovian.github.io/post/chapter-1/</guid>
+      <description>Three hundred and forty-eight years, six months, and nineteen days ago to-day, the Parisians awoke to the sound of all the bells in the triple circuit of the city, the university, and the town ringing a full peal.
+The sixth of January, 1482, is not, however, a day of which history has preserved the memory. There was nothing notable in the event which thus set the bells and the bourgeois of Paris in a ferment from early morning.</description>
+    </item>
+    
+  </channel>
+</rss>

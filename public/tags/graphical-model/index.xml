@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graphical model on Shashank Roy</title>
+    <link>https://mr-markovian.github.io/tags/graphical-model/</link>
+    <description>Recent content in Graphical model on Shashank Roy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate><atom:link href="https://mr-markovian.github.io/tags/graphical-model/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chapter VI: Tensor networks for Machine Learning</title>
+      <link>https://mr-markovian.github.io/post/chapter-12/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://mr-markovian.github.io/post/chapter-12/</guid>
+      <description>Tensor Networks Graphical models are powerful methods which simplifies the statistical dependence of a set of random variables.
+ Bayesian networks Markov Random Fields factor graph model  A factor graphical model descibes a fucntion of the random variables in temrs of the products of fuction of this random variables. when all the factors are non ngative fucntion, the global fucntion can be used to represent a multivariate probability distribution. they capture and can model a lot of problems in fiels of economics, machine learning, statistical modeling and so on.</description>
+    </item>
+    
+  </channel>
+</rss>

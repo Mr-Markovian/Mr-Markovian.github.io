@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Shashank Roy</title>
+    <link>https://mr-markovian.github.io/categories/</link>
+    <description>Recent content in Categories on Shashank Roy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Apr 2017 11:15:58 -0400</lastBuildDate><atom:link href="https://mr-markovian.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inverse Problems</title>
+      <link>https://mr-markovian.github.io/categories/inverse-problems/</link>
+      <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
+      
+      <guid>https://mr-markovian.github.io/categories/inverse-problems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mathematical Modeling</title>
+      <link>https://mr-markovian.github.io/categories/mathematical-modeling/</link>
+      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
+      
+      <guid>https://mr-markovian.github.io/categories/mathematical-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Science</title>
+      <link>https://mr-markovian.github.io/categories/data-science/</link>
+      <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
+      
+      <guid>https://mr-markovian.github.io/categories/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical Simulation</title>
+      <link>https://mr-markovian.github.io/categories/numerical-simulation/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://mr-markovian.github.io/categories/numerical-simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum Machine Learning</title>
+      <link>https://mr-markovian.github.io/categories/quantum-machine-learning/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://mr-markovian.github.io/categories/quantum-machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weather and Climate</title>
+      <link>https://mr-markovian.github.io/categories/weather-and-climate/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://mr-markovian.github.io/categories/weather-and-climate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://mr-markovian.github.io/categories/machine-learning/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://mr-markovian.github.io/categories/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
