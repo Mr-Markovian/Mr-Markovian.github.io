@@ -1,13 +1,13 @@
-title = "Shashank Kumar Roy"
-baseURL = "https://mr-markovian.github.io/"
+title = "Shashank welcomes You"
+baseURL = "https://shashank.roy.gitlab.io/"
 languageCode = "en-us"
 theme = "ananke"
 #themesDir = "../.."
-resourceDir = "../resources"
+#resourceDir = "../resources"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 10 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
@@ -15,11 +15,7 @@ enableRobotsTXT = true
   [languages.en]
     title = "Shashank Roy"
     weight = 1
-    contentDir = "content/en"
-#  [languages.fr]
-#    title = "Mon blogue"
-#    weight = 2
-#    contentDir = "content/fr"
+    contentDir = "content"
 
 [sitemap]
   changefreq = "monthly"
@@ -38,15 +34,17 @@ enableRobotsTXT = true
   tag = "tags"
 
 [params]
+  font_size= 'm'
+  text_color = "white"
   toc=true
   katex=true
-  body_classes = "arial bg-near-white"
-  post_content_classes="arial bg-near-white"
+  body_classes = "arial bg-white"
+  post_content_classes="arial bg-white"
   show_reading_time=true
   favicon = ""
   site_logo = ""
   description = "The last theme you'll ever need. Maybe."
-  facebook = ""
+  facebook = "https://www.facebook.com/shashank.roy1997"
   twitter = "https://twitter.com/GoHugoIO"
   instagram = "https://www.instagram.com/shashankkroy/"
   youtube = ""
@@ -58,7 +56,7 @@ enableRobotsTXT = true
   stackoverflow = ""
   rss = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-navy"
+  background_color_class = "bg-blue"
   featured_image = "/images/tree_2.jpg"
   recent_posts_number = 3
   SidebarRecentLimit = 5
