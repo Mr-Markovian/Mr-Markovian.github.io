@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Geoscience on Shashank Roy</title>
-    <link>https://mr-markovian.github.io/tags/geoscience/</link>
+    <link>https://shashank.roy.gitlab.io/tags/geoscience/</link>
     <description>Recent content in Geoscience on Shashank Roy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Jun 2021 11:15:58 -0400</lastBuildDate><atom:link href="https://mr-markovian.github.io/tags/geoscience/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Jun 2021 11:15:58 -0400</lastBuildDate><atom:link href="https://shashank.roy.gitlab.io/tags/geoscience/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Machine Learning for Weather and Climate Science</title>
-      <link>https://mr-markovian.github.io/post/chapter-10/</link>
+      <link>https://shashank.roy.gitlab.io/post/chapter-10/</link>
       <pubDate>Sun, 13 Jun 2021 11:15:58 -0400</pubDate>
       
-      <guid>https://mr-markovian.github.io/post/chapter-10/</guid>
+      <guid>https://shashank.roy.gitlab.io/post/chapter-10/</guid>
       <description>It&amp;rsquo;s a remarkable time for us for application of AI to solve the hardest of real world problems. Climate and weather prediction is one such task which impacts billions of people all over the world.
 Of possible areas, some are as follows:
  Downscale data Accelerate Simulations Improve forecasts Emulate complex processes   Pattern recognition for extreme weather phenomenon. Tracking extreme events is critical for our climate if one is to prepare and avoid their devastations.</description>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machine Learning on Shashank Roy</title>
-    <link>https://mr-markovian.github.io/tags/machine-learning/</link>
+    <link>https://shashank.roy.gitlab.io/tags/machine-learning/</link>
     <description>Recent content in Machine Learning on Shashank Roy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Jun 2021 11:15:58 -0400</lastBuildDate><atom:link href="https://mr-markovian.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Jun 2021 11:15:58 -0400</lastBuildDate><atom:link href="https://shashank.roy.gitlab.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Machine Learning for Weather and Climate Science</title>
-      <link>https://mr-markovian.github.io/post/chapter-10/</link>
+      <link>https://shashank.roy.gitlab.io/post/chapter-10/</link>
       <pubDate>Sun, 13 Jun 2021 11:15:58 -0400</pubDate>
       
-      <guid>https://mr-markovian.github.io/post/chapter-10/</guid>
+      <guid>https://shashank.roy.gitlab.io/post/chapter-10/</guid>
       <description>It&amp;rsquo;s a remarkable time for us for application of AI to solve the hardest of real world problems. Climate and weather prediction is one such task which impacts billions of people all over the world.
 Of possible areas, some are as follows:
  Downscale data Accelerate Simulations Improve forecasts Emulate complex processes   Pattern recognition for extreme weather phenomenon. Tracking extreme events is critical for our climate if one is to prepare and avoid their devastations.</description>
@@ -20,30 +20,33 @@ Of possible areas, some are as follows:
     
     <item>
       <title>Chapter VI: Tensor networks for Machine Learning</title>
-      <link>https://mr-markovian.github.io/post/chapter-12/</link>
+      <link>https://shashank.roy.gitlab.io/post/chapter-12/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
-      <guid>https://mr-markovian.github.io/post/chapter-12/</guid>
+      <guid>https://shashank.roy.gitlab.io/post/chapter-12/</guid>
       <description>Tensor Networks Graphical models are powerful methods which simplifies the statistical dependence of a set of random variables.
  Bayesian networks Markov Random Fields factor graph model  A factor graphical model descibes a fucntion of the random variables in temrs of the products of fuction of this random variables. when all the factors are non ngative fucntion, the global fucntion can be used to represent a multivariate probability distribution. they capture and can model a lot of problems in fiels of economics, machine learning, statistical modeling and so on.</description>
     </item>
     
     <item>
       <title>Chapter VII:Quantum Machine Learning</title>
-      <link>https://mr-markovian.github.io/post/chapter-7/</link>
+      <link>https://shashank.roy.gitlab.io/post/chapter-7/</link>
       <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
       
-      <guid>https://mr-markovian.github.io/post/chapter-7/</guid>
+      <guid>https://shashank.roy.gitlab.io/post/chapter-7/</guid>
       <description>In the twinkling of an eye, all was ready to execute Coppenole’s idea. Bourgeois, scholars and law clerks all set to work. The little chapel situated opposite the marble table was selected for the scene of the grinning match. A pane broken in the pretty rose window above the door, left free a circle of stone through which it was agreed that the competitors should thrust their heads. In order to reach it, it was only necessary to mount upon a couple of hogsheads, which had been produced from I know not where, and perched one upon the other, after a fashion.</description>
     </item>
     
     <item>
-      <title>Chapter II: Is QML powerful over Classical Machine Learning methods?</title>
-      <link>https://mr-markovian.github.io/post/chapter-13/</link>
+      <title>Chapter II: Control theory</title>
+      <link>https://shashank.roy.gitlab.io/post/chapter-13/</link>
       <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
       
-      <guid>https://mr-markovian.github.io/post/chapter-13/</guid>
-      <description>References  The Inductive bias of Quantum Kernels  </description>
+      <guid>https://shashank.roy.gitlab.io/post/chapter-13/</guid>
+      <description>Controlability
+Observability
+Identifiability
+References  The Inductive bias of Quantum Kernels  </description>
     </item>
     
   </channel>
