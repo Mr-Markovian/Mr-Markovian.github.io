@@ -1,36 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Numerical Simulation on Shashank Roy</title>
-    <link>https://shashank.roy.gitlab.io/categories/numerical-simulation/</link>
-    <description>Recent content in Numerical Simulation on Shashank Roy</description>
+    <title>Numerical Simulation on Shashank&#39;s Home</title>
+    <link>https://mr-markovian.github.io/categories/numerical-simulation/</link>
+    <description>Recent content in Numerical Simulation on Shashank&#39;s Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Apr 2017 11:00:59 -0400</lastBuildDate><atom:link href="https://shashank.roy.gitlab.io/categories/numerical-simulation/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Shashank Roy</copyright>
+    <lastBuildDate>Mon, 10 Apr 2017 11:00:59 -0400</lastBuildDate><atom:link href="https://mr-markovian.github.io/categories/numerical-simulation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chapter 14: Give momentum to your samples</title>
-      <link>https://shashank.roy.gitlab.io/post/chapter-14/</link>
+      <link>https://mr-markovian.github.io/post/chapter-14/</link>
       <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
       
-      <guid>https://shashank.roy.gitlab.io/post/chapter-14/</guid>
+      <guid>https://mr-markovian.github.io/post/chapter-14/</guid>
       <description>Hamiltonian Monte Carlo methods</description>
     </item>
     
     <item>
       <title>Chapter 15: Bayesian Uncertainty and Statistics</title>
-      <link>https://shashank.roy.gitlab.io/post/chapter-15/</link>
+      <link>https://mr-markovian.github.io/post/chapter-15/</link>
       <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
       
-      <guid>https://shashank.roy.gitlab.io/post/chapter-15/</guid>
+      <guid>https://mr-markovian.github.io/post/chapter-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stochastic Parameterizations for Uncertainty, Prediction and Control</title>
-      <link>https://shashank.roy.gitlab.io/post/chapter-2/</link>
+      <link>https://mr-markovian.github.io/post/chapter-2/</link>
       <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
       
-      <guid>https://shashank.roy.gitlab.io/post/chapter-2/</guid>
+      <guid>https://mr-markovian.github.io/post/chapter-2/</guid>
       <description>Solving partial differential euqations using computers is done by converting it into ode via discretizations so that one can represent the systems using a finite degree of freedoms such that our approximations are still valid and we are able to estimate and solve the system at a coarser level. What this means is that we only use a finite number of points to represent a line, a finite number of area elements and a finite number of volume elements to construct algebraic equations in order to solve them using the computer.</description>
     </item>
     
