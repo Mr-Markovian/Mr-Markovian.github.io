@@ -17,15 +17,5 @@
       <description>Given a set of observations ${y1:y_n} \in \mathcal{X}$ which are samples from an unknown distribution $p(y)$, suppose that we would like to produce new samples similar to the above. What one then means is that they are tyring to learn the distribution $p(y)$ itself, through which they can sample new points. A model which will learn the distribuion from the samples and then generate samples from it is called a generative model.</description>
     </item>
     
-    <item>
-      <title>Chapter I: Optimization: The Nature&#39;s way</title>
-      <link>https://mr-markovian.github.io/post/chapter-1/</link>
-      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
-      
-      <guid>https://mr-markovian.github.io/post/chapter-1/</guid>
-      <description>Three hundred and forty-eight years, six months, and nineteen days ago to-day, the Parisians awoke to the sound of all the bells in the triple circuit of the city, the university, and the town ringing a full peal.
-The sixth of January, 1482, is not, however, a day of which history has preserved the memory. There was nothing notable in the event which thus set the bells and the bourgeois of Paris in a ferment from early morning.</description>
-    </item>
-    
   </channel>
 </rss>

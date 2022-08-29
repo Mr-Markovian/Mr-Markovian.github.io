@@ -1,22 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Inverse Problems on Shashank&#39;s Home</title>
-    <link>https://mr-markovian.github.io/categories/inverse-problems/</link>
-    <description>Recent content in Inverse Problems on Shashank&#39;s Home</description>
+    <title>Optimization and Control on Shashank&#39;s Home</title>
+    <link>https://mr-markovian.github.io/categories/optimization-and-control/</link>
+    <description>Recent content in Optimization and Control on Shashank&#39;s Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Shashank Roy</copyright>
-    <lastBuildDate>Thu, 13 Apr 2017 11:15:58 -0400</lastBuildDate><atom:link href="https://mr-markovian.github.io/categories/inverse-problems/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Metaheuristic Optimization and evolutionary algorithms: How nature solves it&#39;s problems</title>
-      <link>https://mr-markovian.github.io/post/chapter-5/</link>
-      <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
-      
-      <guid>https://mr-markovian.github.io/post/chapter-5/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate><atom:link href="https://mr-markovian.github.io/categories/optimization-and-control/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A short introduction to Data Assimilation</title>
       <link>https://mr-markovian.github.io/post/chapter-1/</link>

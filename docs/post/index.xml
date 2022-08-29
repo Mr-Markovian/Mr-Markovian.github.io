@@ -57,30 +57,31 @@ Of possible areas, some are as follows:
     </item>
     
     <item>
-      <title>Chapter V: Data Assimilation: A Hidden markov model problem</title>
+      <title>Chaos: It&#39;s more than the butterfly effect</title>
+      <link>https://mr-markovian.github.io/post/chapter-8/</link>
+      <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
+      
+      <guid>https://mr-markovian.github.io/post/chapter-8/</guid>
+      <description>References Tim Palmer&amp;rsquo;s paper Edward Lorenz Paper</description>
+    </item>
+    
+    <item>
+      <title>Ensemble Kalman Filters</title>
+      <link>https://mr-markovian.github.io/post/chapter-7/</link>
+      <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
+      
+      <guid>https://mr-markovian.github.io/post/chapter-7/</guid>
+      <description>Kalman filter is a sequetial state estimation algorithms which performs the filtering-step recursively based on the assumption of linearity and gaussian density functions of the system which allows it to recursively implement the bayesian posterior calculation by simply updating mean and covariance whenever observations are available.
+Proposed by G.Evensen, Ensemble Kalman filters are a Monte-Carlo approch of approximation of the original Kalman filter.The filter employs ensemble representation of probability distributions as a collection states drawn from the respective pdfs.</description>
+    </item>
+    
+    <item>
+      <title>Metaheuristic Optimization and evolutionary algorithms: How nature solves it&#39;s problems</title>
       <link>https://mr-markovian.github.io/post/chapter-5/</link>
       <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
       
       <guid>https://mr-markovian.github.io/post/chapter-5/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Chapter VII:Is Finance useful for a Physicist?</title>
-      <link>https://mr-markovian.github.io/post/chapter-8/</link>
-      <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
-      
-      <guid>https://mr-markovian.github.io/post/chapter-8/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chapter VII:Quantum Machine Learning</title>
-      <link>https://mr-markovian.github.io/post/chapter-7/</link>
-      <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
-      
-      <guid>https://mr-markovian.github.io/post/chapter-7/</guid>
-      <description>In the twinkling of an eye, all was ready to execute Coppenole’s idea. Bourgeois, scholars and law clerks all set to work. The little chapel situated opposite the marble table was selected for the scene of the grinning match. A pane broken in the pretty rose window above the door, left free a circle of stone through which it was agreed that the competitors should thrust their heads. In order to reach it, it was only necessary to mount upon a couple of hogsheads, which had been produced from I know not where, and perched one upon the other, after a fashion.</description>
     </item>
     
     <item>
@@ -141,13 +142,12 @@ References  The Inductive bias of Quantum Kernels  </description>
     </item>
     
     <item>
-      <title>Chapter I: Optimization: The Nature&#39;s way</title>
+      <title>A short introduction to Data Assimilation</title>
       <link>https://mr-markovian.github.io/post/chapter-1/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       
       <guid>https://mr-markovian.github.io/post/chapter-1/</guid>
-      <description>Three hundred and forty-eight years, six months, and nineteen days ago to-day, the Parisians awoke to the sound of all the bells in the triple circuit of the city, the university, and the town ringing a full peal.
-The sixth of January, 1482, is not, however, a day of which history has preserved the memory. There was nothing notable in the event which thus set the bells and the bourgeois of Paris in a ferment from early morning.</description>
+      <description>Data assimilation research addresses two problems of inverse modeling which are filtering and prediction. Filtering is defined as the sequential estimation of the posterior distribution in phase space of the state of a physical system based on a priori assumed model and available observations. Filtering is followed by prediction, where the goal is to quanitfy the the future of the system and it&amp;rsquo;s flow dependent uncertainty which accounts for possible source of error.</description>
     </item>
     
   </channel>

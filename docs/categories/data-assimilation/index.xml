@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Assimilation on Shashank&#39;s Home</title>
+    <link>https://mr-markovian.github.io/categories/data-assimilation/</link>
+    <description>Recent content in Data Assimilation on Shashank&#39;s Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Shashank Roy</copyright>
+    <lastBuildDate>Thu, 13 Apr 2017 11:15:58 -0400</lastBuildDate><atom:link href="https://mr-markovian.github.io/categories/data-assimilation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ensemble Kalman Filters</title>
+      <link>https://mr-markovian.github.io/post/chapter-7/</link>
+      <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
+      
+      <guid>https://mr-markovian.github.io/post/chapter-7/</guid>
+      <description>Kalman filter is a sequetial state estimation algorithms which performs the filtering-step recursively based on the assumption of linearity and gaussian density functions of the system which allows it to recursively implement the bayesian posterior calculation by simply updating mean and covariance whenever observations are available.
+Proposed by G.Evensen, Ensemble Kalman filters are a Monte-Carlo approch of approximation of the original Kalman filter.The filter employs ensemble representation of probability distributions as a collection states drawn from the respective pdfs.</description>
+    </item>
+    
+  </channel>
+</rss>
